@@ -3,11 +3,13 @@
     "author": "Mostafa Abdelhamid",
     "version": "1.0.0",
     "description": "",
-    "homepage": "https://github.com/mhsmustafa84/simple-react-app-using-vite#readme",
+    "homepage": "https://mhsmustafa84.github.io/simple-react-app-using-vite",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "preview": "vite preview"
+        "preview": "vite preview",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d dist"
     },
     "dependencies": {
         "react": "^17.0.2",
@@ -15,6 +17,7 @@
     },
     "devDependencies": {
         "@vitejs/plugin-react": "^1.0.7",
+        "gh-pages": "^3.2.3",
         "vite": "^2.7.2"
     },
     "repository": {
