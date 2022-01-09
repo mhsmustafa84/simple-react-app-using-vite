@@ -1,0 +1,29 @@
+{
+    "name": "simple-react-app-using-vite",
+    "author": "Mostafa Abdelhamid",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "https://github.com/mhsmustafa84/simple-react-app-using-vite#readme",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^1.0.7",
+        "vite": "^2.7.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mhsmustafa84/simple-react-app-using-vite.git"
+    },
+    "keywords": [],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mhsmustafa84/simple-react-app-using-vite/issues"
+    }
+}

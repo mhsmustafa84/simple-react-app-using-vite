@@ -1,1 +1,3 @@
-# simple-react-app-using-vite
+## simple react app (counter) using vite
+
+https://vitejs.dev/
