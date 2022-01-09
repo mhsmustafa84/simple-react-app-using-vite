@@ -3,6 +3,7 @@
     "author": "Mostafa Abdelhamid",
     "version": "1.0.0",
     "description": "",
+    "main": "index.js",
     "homepage": "https://mhsmustafa84.github.io/simple-react-app-using-vite",
     "scripts": {
         "dev": "vite",
